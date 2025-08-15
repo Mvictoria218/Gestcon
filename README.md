@@ -1,6 +1,6 @@
 # Gestcon
 
-### Este é um projeto desenvolvido a partir de uma atividade feita em sala de aula, com o objetivo de simplificar e organizar cadastro de clientes, fornecedores e usuários 
+### Este é um projeto desenvolvido a partir de uma atividade feita em sala de aula, com o objetivo de simplificar e organizar cadastro de clientes, fornecedores e usuários. O projeto utiliza 
 
 ![print tela-inicial](/tela-inicial.png)
 
